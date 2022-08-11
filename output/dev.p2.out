@@ -85,7 +85,7 @@ sum O
 it O
 up O
 : O
-Service O
+Service B-positive
 varies O
 from O
 good O
@@ -95,7 +95,7 @@ mediorce O
 depending O
 on O
 which O
-waiter O
+waiter B-negative
 you O
 get O
 ; O
@@ -171,7 +171,7 @@ them O
 - O
 Mediocre O
 Service B-positive
-/ O
+/ I-positive
 Quality O
 
 The O
@@ -231,7 +231,7 @@ gentleman O
 , O
 maybe O
 the O
-manager O
+manager B-negative
 , O
 came O
 to O
@@ -260,8 +260,8 @@ Food I-positive
 
 cirspy O
 crust O
-margherita O
-pizza O
+margherita B-positive
+pizza I-positive
 
 My O
 friends O
@@ -310,9 +310,9 @@ hungry O
 . O
 
 best O
-honey O
-walnyt O
-prawns O
+honey B-negative
+walnyt I-negative
+prawns I-negative
 that O
 we O
 have O
@@ -381,7 +381,7 @@ well O
 prepared O
 and O
 the O
-service O
+service B-positive
 impecable O
 . O
 
@@ -660,8 +660,8 @@ hype O
 Small O
 servings O
 for O
-main O
-entree O
+main B-positive
+entree I-positive
 , O
 i O
 had O
@@ -776,9 +776,9 @@ was O
 bland O
 , O
 the O
-goat O
-cheese O
-salad O
+goat B-positive
+cheese I-positive
+salad I-positive
 was O
 missing O
 the O
@@ -868,7 +868,7 @@ atmosphere I-positive
 I O
 ordered O
 the O
-Lobster O
+Lobster B-positive
 Cobb O
 Salad O
 . O
@@ -901,9 +901,9 @@ us O
 , O
 our O
 wonderful O
-server O
+server B-positive
 and O
-food O
+food B-positive
 made O
 the O
 experience O
@@ -1338,9 +1338,9 @@ split O
 rather O
 than O
 one O
-appetizer O
-and O
-entree O
+appetizer B-positive
+and I-positive
+entree I-positive
 per O
 person O
 ) O
@@ -1360,7 +1360,7 @@ a O
 good O
 selecion O
 of O
-wines O
+wines B-positive
 at O
 reasonable O
 prices O
@@ -1374,7 +1374,7 @@ bad O
 The O
 frizzy O
 retro O
-girl O
+girl B-negative
 ( O
 with O
 winged O
@@ -1466,7 +1466,7 @@ I O
 don't O
 like O
 the O
-servers O
+servers B-positive
 , O
 one O
 young O
@@ -1490,7 +1490,7 @@ always O
 delivers O
 on O
 their O
-food O
+food B-positive
 . O
 
 Yes O
@@ -1551,7 +1551,7 @@ finish O
 my O
 glass O
 of O
-wine O
+wine B-positive
 before O
 offering O
 another O
@@ -1602,7 +1602,7 @@ a O
 waitress O
 and O
 a O
-waiter O
+waiter B-negative
 . O
 
 Amazing O
@@ -1679,7 +1679,7 @@ a O
 restraunt O
 and O
 banquet O
-hall O
+hall B-negative
 and O
 another O
 one O
@@ -1906,7 +1906,7 @@ fun O
 was O
 dry O
 ; O
-pork O
+pork B-positive
 shu O
 mai O
 was O
@@ -2052,7 +2052,7 @@ but O
 I O
 hope O
 the O
-staff O
+staff B-positive
 pays O
 more O
 attention O
@@ -2115,8 +2115,8 @@ both O
 opted O
 for O
 a O
-pasta O
-dish O
+pasta B-positive
+dish I-positive
 and O
 they O
 were O
@@ -2171,7 +2171,7 @@ in O
 - O
 - O
 the O
-delivery O
+delivery B-positive
 guys O
 have O
 MAJOR O
@@ -2216,11 +2216,11 @@ Perfection O
 Best O
 drumsticks O
 over O
-rice O
-and O
-sour O
-spicy O
-soup O
+rice B-positive
+and I-positive
+sour I-positive
+spicy I-positive
+soup I-positive
 in O
 town O
 ! O
@@ -2401,8 +2401,8 @@ Personally O
 I O
 like O
 the O
-margherita O
-pizza O
+margherita B-positive
+pizza I-positive
 better O
 , O
 but O
@@ -2480,7 +2480,7 @@ excellent O
 , O
 especially O
 the O
-calamari O
+calamari B-positive
 , O
 as O
 were O
@@ -2532,7 +2532,7 @@ food O
 and O
 a O
 nice O
-decor O
+decor B-positive
 at O
 reasonable O
 prices O
@@ -2669,10 +2669,10 @@ say O
 how O
 delicous O
 the O
-food O
-and O
-the O
-service O
+food B-negative
+and I-negative
+the I-negative
+service I-negative
 was O
 . O
 
@@ -2743,7 +2743,7 @@ come O
 with O
 anything O
 like O
-chips O
+chips B-positive
 or O
 a O
 side O
@@ -2839,13 +2839,13 @@ means O
 simple O
 dishes O
 and O
-wine O
+wine B-positive
 served O
 efficiently O
 in O
 a O
 bustling O
-atmosphere O
+atmosphere B-positive
 . O
 
 Authentic O
@@ -3021,7 +3021,7 @@ theater O
 He O
 offers O
 subpar O
-service O
+service B-positive
 and O
 has O
 no O
@@ -3094,7 +3094,7 @@ whatsoever O
 Maggot O
 in O
 the O
-food O
+food B-positive
 ! O
 
 highly O
@@ -3173,8 +3173,8 @@ needs O
 
 Seabass O
 on O
-lobster O
-risotto O
+lobster B-positive
+risotto I-positive
 was O
 the O
 best O
@@ -3211,8 +3211,8 @@ daughter's O
 wedding O
 reception O
 at O
-Water's O
-Edge O
+Water's B-positive
+Edge I-positive
 received O
 the O
 highest O
@@ -3349,7 +3349,7 @@ plain O
 delivers O
 high O
 quality O
-food O
+food B-neutral
 and O
 good O
 service O
@@ -3409,7 +3409,7 @@ the O
 experience O
 of O
 good O
-food O
+food B-neutral
 and O
 belly O
 dancers O
@@ -3536,7 +3536,7 @@ cozy O
 place O
 with O
 good O
-pizza O
+pizza B-positive
 . O
 
 So O
@@ -3591,7 +3591,7 @@ drink O
 choice O
 to O
 your O
-food O
+food B-positive
 tastes O
 or O
 vice O
@@ -3637,7 +3637,7 @@ one O
 sink O
 , O
 the O
-girl O
+girl B-negative
 was O
 staying O
 totally O
@@ -3717,7 +3717,7 @@ and O
 both O
 times O
 the O
-food O
+food B-positive
 was O
 fine O
 , O
@@ -3952,7 +3952,7 @@ recent O
 trip O
 , O
 our O
-waiter O
+waiter B-positive
 was O
 extremely O
 dismissive O
@@ -3962,15 +3962,15 @@ no O
 less O
 than O
 three O
-staff O
+staff B-positive
 members O
 waited O
 hand-and-foot O
 on O
 a O
-pair O
-of O
-Japanese O
+pair B-positive
+of I-positive
+Japanese I-positive
 girls O
 seated O
 nearby O
@@ -3987,8 +3987,8 @@ stairs O
 going O
 up O
 with O
-mirrored O
-walls O
+mirrored B-positive
+walls I-positive
 - O
 I O
 am O
@@ -4006,8 +4006,8 @@ off O
 the O
 stairs O
 - O
-mirrored O
-walls O
+mirrored B-positive
+walls I-positive
 make O
 you O
 dizzy O
@@ -4040,8 +4040,8 @@ for O
 its O
 very O
 poor O
-customer O
-service O
+customer B-negative
+service I-negative
 . O
 
 Problem O
