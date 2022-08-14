@@ -1,1 +1,2 @@
-simply fill in prediction_dir and truth_dir in evaluate.py and run the file to evaluate the predicted file.
+*To Run Evaluation Script*
+Simply fill in prediction_dir and truth_dir path variables in evaluate.py and run the file to evaluate the file with predictions.
