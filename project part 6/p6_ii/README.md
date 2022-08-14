@@ -1,6 +1,7 @@
 The code for question 6 part ii is under the directory of ‘p6_ii’. 
 All the required data files(including test.p6.model.out) are under ‘data’, with ‘laptop14’ containing active training files and ‘test20’ containing active test files. The rest of the files are outside and labelled accordingly. 
 All the trained BERT models are under ‘bert-tfm-laptop14-finetune’, done in 15 checkpoints. ‘bert-tfm-laptop14-finetune’ is too large and hence we removed it and uploaded it to:  https://drive.google.com/drive/folders/13elhJ1HCMYsoq3-ssCNvsRWGkVSHtR1r?usp=sharing
+
 Dependencies can be found in ‘requirements.txt’ as per usual.  
 
 To prepare the dataset provided by the course for the model, run the  ‘converter.py’ file after typing in the relevant paths and variables as shown:
