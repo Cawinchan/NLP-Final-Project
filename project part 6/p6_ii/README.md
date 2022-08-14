@@ -30,5 +30,6 @@ Predict the model with the command:
 
 sh work.sh
 
+Major credits to the research paper ‘Exploiting BERT for End-to-End Aspect-based Sentiment Analysis’: https://arxiv.org/pdf/1910.00883.pdf 
 
 ​     
