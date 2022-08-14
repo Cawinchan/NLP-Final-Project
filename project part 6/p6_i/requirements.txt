@@ -1,0 +1,4 @@
+pyyaml
+sklearn-crfsuite
+numpy
+conlleval

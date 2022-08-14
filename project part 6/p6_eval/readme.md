@@ -1,0 +1,1 @@
+simply fill in prediction_dir and truth_dir in evaluate.py and run the file to evaluate the predicted file.
