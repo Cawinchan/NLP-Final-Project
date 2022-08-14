@@ -6,8 +6,11 @@ Dependencies can be found in ‘requirements.txt’ as per usual.
 To prepare the dataset provided by the course for the model, run the  ‘converter.py’ file after typing in the relevant paths and variables as shown:
 
 train_dir = Path(__file__).resolve().parent/"data"/"train"
+
 devin_dir = Path(__file__).resolve().parent/"data"/"dev.in"
+
 test_dir = Path(__file__).resolve().parent/"data"/"test.in"
+
 path_out = Path(__file__).resolve().parent/"data"/"convert_out_dev.txt"
 
 #use test_converter for datasets without labels and converter for datasets with labels
