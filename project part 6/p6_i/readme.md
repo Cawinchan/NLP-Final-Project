@@ -2,9 +2,8 @@
 
 ## Part 6i
 
-The code for question 6 part i is under the directory of ‘p6_i’. 
-All the required data files(including test.p6.CRF.out) are under ‘dataset’, and the main file to run is ‘main.py’.
-Dependencies required to run this part are in ‘requirements.txt’.
+All the required data files(including test.p6.CRF.out) are under 'dataset', and the main file to run is 'main.py'.
+Dependencies required to run this part are in 'requirements.txt'.
 
 ## How to run 
 
